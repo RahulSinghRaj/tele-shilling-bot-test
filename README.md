@@ -26,7 +26,10 @@ And you will know that it is still much better to use :)
 3. Can shill with the **GROUP LINK**. No need for **GROUP ID**, etc.  
 4. Can shill based on time limitation of **SLOW MODE**.  
 (tested for no slow mode to 1h slow mode)  
-5. And many more, just focusing on spreading this tool now.  
+5. **NO INSTALLATION NEEDED**
+6. **NOT** using your computer power
+(You can also run this in your mobile too + turn on/off)
+8. And many more, just focusing on spreading this tool now.  
 
 # Instruction
 
