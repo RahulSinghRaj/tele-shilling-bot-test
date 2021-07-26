@@ -1,18 +1,24 @@
 env_data = {
+# write down target group links one by one using newline like example below
 'at_links': '''
 @BSC_TURKEY
 @BSC_PhiliPPines
 ''',
 
-'text': '''
+# write down text which you want to shill
+# it will be displayed same including newline.
+'shill_text': '''
 AutoShill
 If u want to auto shill every group regarding slow mode,
 DM @AllCoinLab
 ''',
 
+# Your api_id (if 123123123)
 'API_ID': '123123123',
+# Your api_hash (if abcabcabcabac)
 'API_HASH': 'abcabcabcabac',
-'NUMBER': 123123123123,
+# Your phone number with country code (if +1 012 400 9999)
+'NUMBER': '10124009999',
 }
 
 import pickle
