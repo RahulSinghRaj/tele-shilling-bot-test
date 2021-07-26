@@ -1,12 +1,18 @@
+################################################
+# Write down each parameter carefully
+# so as to shill perfectly
+################################################
+
 env_data = {
 # write down target group links one by one using newline like example below
+# DON'T ADD BLANK LINE. Unexpected error could occur
 'at_links': '''
 @BSC_TURKEY
 @BSC_PhiliPPines
 ''',
 
 # write down text which you want to shill
-# it will be displayed same including newline.
+# it will be displayed exactly same (including newline)
 'shill_text': '''
 AutoShill
 If u want to auto shill every group regarding slow mode,
