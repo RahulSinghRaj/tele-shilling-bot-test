@@ -30,3 +30,7 @@ And you will know that it is still much better to use :)
 
 # Instruction
 
+1. Follow instructions on section 'Obtaining api_id' in this link to get 'api_id' and 'api_hash':
+https://core.telegram.org/api/obtaining_api_id
+
+2. 
