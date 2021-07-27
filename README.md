@@ -27,7 +27,7 @@ And you will know that it is still much better to use :)
 4. Can shill based on time limitation of **SLOW MODE**.  
 (tested for no slow mode to 1h slow mode)  
 5. **NO INSTALLATION NEEDED**
-6. **NOT** using your computer power
+6. **NOT** using your computer power  
 (You can also run this in your mobile too + turn on/off)
 8. And many more, just focusing on spreading this tool now.  
 
@@ -37,10 +37,10 @@ And you will know that it is still much better to use :)
 
 # Instruction
 
-1. Follow instructions on section 'Obtaining api_id' in this link to get 'api_id' and 'api_hash':
+1. Follow instructions on section 'Obtaining api_id' in this link to get 'api_id' and 'api_hash':  
 https://core.telegram.org/api/obtaining_api_id
 
-2. Open Google Colab
+2. Open Google Colab  
 https://colab.research.google.com
 
 3. Click on the cell and type:
@@ -59,28 +59,29 @@ https://github.com/all-coin-lab/AutoShill.git
 6. Check shilling is being done :)
 
 # Some Tips
-Before the mute, TG system usually sends warning message.
-This tool will display those warnings.
-So some warning happens primarily based on spam / flood / etc,
+Before the mute, TG system usually sends warning message.  
+This tool will display those warnings.  
+So some warning happens primarily based on spam / flood / etc,  
 it is recommended to stop for a few moment and restart.
 
 
 
 # FAQ
-1. Spam / Flood warning message happens
-It is sign for the mute / ban,
+1. Spam / Flood warning message happens  
+
+It is sign for the mute / ban,  
 erase some shill group or increase 'SLEEP' value
 
-Sometimes TG system applies the mute / ban without warning message.
-This can be caused by user report.
-As it cannot be avoided as there is no prior notice,
+Sometimes TG system applies the mute / ban without warning message.  
+This can be caused by user report.  
+As it cannot be avoided as there is no prior notice,  
 I recommend you to erase more shill group and increase 'SLEEP' value
 
 
 # DISCLAIMER
-This is made for the shillers to shill more effectively and efficiently.
-Using too much in too much TG groups may lead unexpected results by the TG system. (ex. mute / ban)
-This tool is tested with many situation (Up to 50+ groups for 24+ hours)
+This is made for the shillers to shill more effectively and efficiently.  
+Using too much in too much TG groups may lead unexpected results by the TG system. (ex. mute / ban)  
+This tool is tested with many situation (Up to 50+ groups for 24+ hours)  
 But it may differ because of the various slow mode cooldown for each group.
 
 This tool has some safety methods to avoid it,
