@@ -54,7 +54,26 @@ This is one of Official Google Page, check yourself :)
 ```
 https://github.com/all-coin-lab/AutoShill.git
 ```
-3. Click 'run.py' on the left panel
+
+4. Click left panel and click each files and follow each instructions below
+
+4-1. Open cfg/app.cfg  
+Write down api_id, api_hash and phone number
+
+4-2. Open cfg/ctrl.cfg  
+Set values to control this program
+
+4-2. Open cfg/group.cfg  
+Write down all group links you want to shill like examples given
+##### You can write down based on @ link or full link
+##### MAKE SURE each groups are separated by at least ONE SPACE or NEWLINE
+##### Other than that, you don't need to care for some orders or something
+##### No need to care for space, newline count between groups.
+##### Just make sure at least ONE SPACE or NEWLINE
+##### Also no need to care for uppercase
+
+4-3. Open cfg/shill.txt  
+Write down shill text
 
 4. Change data and save
 
