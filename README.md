@@ -63,14 +63,17 @@ https://github.com/all-coin-lab/AutoShill.git
 !ipython3 run.py
 ```
 
-6. Check shilling is being done :)
+6. Check shilling is being processed
+
+7. Enjoy 24/7 Shilling :)
+
+
 
 # Some Tips
 Before the mute, TG system usually sends warning message.  
 This tool will display those warnings.  
 So some warning happens primarily based on spam / flood / etc,  
 it is recommended to stop for a few moment and restart.
-
 
 
 # FAQ
