@@ -52,7 +52,7 @@ This is one of Official Google Page, check yourself :)
 
 3. Click on the cell and type:
 ```
-https://github.com/all-coin-lab/AutoShill.git
+!git clone https://github.com/AllCoinLab/AutoShill.git
 ```
 
 4. Click left panel and click each files and follow each instructions below
