@@ -36,12 +36,19 @@ And you will know that it is still much better to use :)
 (Only few group can be joined per day due to TG system)
 
 # Instruction
+Working on progress.  
+It will be announced in Telegram if the tool is ready.  
 
 1. Follow instructions on section 'Obtaining api_id' in this link to get 'api_id' and 'api_hash':  
 https://core.telegram.org/api/obtaining_api_id
 
-2. Open Google Colab  
-https://colab.research.google.com
+2. Open Google Colab Intro Page  
+https://colab.research.google.com/notebooks/intro.ipynb
+
+2-1. Login with your google account  
+This is one of Official Google Page, check yourself :)
+
+2-2. If you have already logged in, popup will appear. Simply click 'ESC' to erase it.
 
 3. Click on the cell and type:
 ```
