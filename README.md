@@ -2,6 +2,11 @@
 
 Automatic Shilling Program for Telegram
 
+# Links
+
+Telegram: https://t.me/AutoShillTG  
+Github: https://github.com/AllCoinLab  
+
 # Introduction
 
 ### 🔥🔥🔥 ATTENTION ALL SHILLERS!! 🔥🔥🔥 
@@ -12,8 +17,7 @@ Do other things! rest, play, or find more opportunities.
 
 For the launch event,
 it will be **FREE** to use for all of you.  
-Follow the instructions in github:  
-https://github.com/all-coin-lab
+Follow the instructions in github
 
 When the time is right,  
 Fee will be charged for future use.  
