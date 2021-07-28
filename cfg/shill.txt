@@ -9,7 +9,7 @@ If you want to shill
 1. automatically
 2. in multiple group
 3. with adjusting msg time regarding each group's SLOW MODE
-4. using your ACCOUNT (NOT BOT)
+4. using your ACCOUNT (NOT BOT, tell me if you need for BOT)
 5. without installation
 6. using less computer power (or mobile)
 
