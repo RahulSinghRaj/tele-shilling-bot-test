@@ -24,7 +24,8 @@ Fee will be charged for future use.
 And you will know that it is still much better to use :)  
 
 # Features
-1. Can shill with your user **ACCOUNT**, not with **BOT**  
+1. Can shill with your user **ACCOUNT**, not with **BOT**
+(Can also do with bot but you prefer account)  
 2. Can shill in multiple TG group  
 (tested for 50+ groups, careful yourself for the TG spam system)  
 3. Can shill with the **GROUP LINK**. No need for **GROUP ID**, etc.  
