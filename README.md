@@ -115,10 +115,11 @@ I recommend you to erase more shill group and increase 'SLEEP' value
 # DISCLAIMER
 This is made for the shillers to shill more effectively and efficiently.  
 Using too much in too much TG groups may lead unexpected results by the TG system. (ex. mute / ban)  
-This tool is tested with many situation (Up to 50+ groups for 24+ hours)  
+This tool is tested with many situations.  
+(Up to 50+ groups for 24+ hours)  
 But it may differ because of the various slow mode cooldown for each group.
 
-This tool has some safety methods to avoid it,
-but this is not responsible for those unexpected results.
+This tool has some safety methods to avoid it,  
+but this is not responsible for those unexpected results.  
 It is up to **YOU** to adjust using time and target group counts to avoid it.
 
