@@ -60,7 +60,7 @@ It will be announced in Telegram if the tool is ready.
 1. Follow instructions on section 'Obtaining api_id' in this link to get 'api_id' and 'api_hash':  
 https://core.telegram.org/api/obtaining_api_id
 
-2. Open this link
+2. Open this link  
 https://colab.research.google.com/drive/1RSpC0acWMPn0oju-AhuiXW5AGwp1xy01?usp=sharing
 
 3. Login with your google account  
