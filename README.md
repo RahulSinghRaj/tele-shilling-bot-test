@@ -26,7 +26,7 @@ And you will know that it is still much better to use :)
 # NOTICE
 Many people asking that it is not working now.  
 ## This is not officially launched yet
-SO nothing is working now. it is normal.  
+So nothing is working now. it is normal.  
 Join https://t.me/AutoShillTG to get the official announcement of this program for **FREE**.
 
 ## And there is a beta test program running now.  
