@@ -61,8 +61,12 @@ It will be announced in Telegram if the tool is ready.
 https://core.telegram.org/api/obtaining_api_id#obtaining-api-id
 
 ### troubleshooting
-Incorrect app name&#33 -> use alphanumeric, 5-32 characters
-my.telegram.org says ERROR -> Use chrome is advised, don't use AD block and VPN. use incognito mode in chrome
+Incorrect app name&#33  
+- use alphanumeric, 5-32 characters  
+my.telegram.org says ERROR  
+1. Use chrome, not interet explorer or edge  
+2. Not worked by 1, don't use AD block and VPN.  
+3. Not worked by 2, use incognito mode in chrome
 
 
 2. Open this link  
