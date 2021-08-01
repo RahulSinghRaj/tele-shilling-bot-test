@@ -61,7 +61,7 @@ It will be announced in Telegram if the tool is ready.
 https://core.telegram.org/api/obtaining_api_id
 
 2. Open this link
-https://colab.research.google.com/notebooks/intro.ipynb
+https://colab.research.google.com/drive/1RSpC0acWMPn0oju-AhuiXW5AGwp1xy01?usp=sharing
 
 3. Login with your google account  
 This is one of Official Google Page, check yourself :)
