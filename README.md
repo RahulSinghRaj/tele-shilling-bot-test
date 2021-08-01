@@ -139,3 +139,7 @@ This tool has some safety methods to avoid it,
 but this is not responsible for those unexpected results.  
 It is up to **YOU** to adjust using time and target group counts to avoid it.
 
+# Other Project
+Check my other projects too :)
+HoneyProof: Checks honeypot tokens
+https://github.com/AllCoinLab/honeyproof
