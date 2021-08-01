@@ -35,6 +35,10 @@ it is being used by some shillers for test and early use for this program.
 But it is **NOT FREE** (only official release will be FREE).  
 If you want beta test, DM @AllCoinLab
 
+# IMPORTANT
+### DO NOT MODIFY ANYTHING WHICH IS NOT MENTIONED 
+You may get **PERMANENT BAN** by the Telegram system if you do something which I didn't say.  
+
 
 # Features
 1. Can shill with your user **ACCOUNT**, not with **BOT**
