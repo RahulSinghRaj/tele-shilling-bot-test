@@ -20,8 +20,9 @@ it will be **FREE** to use for all of you.
 Follow the instructions in github
 
 When the time is right,  
-Fee will be charged for future use.  
-And you will know that it is still much better to use :)  
+**Fee will be charged** for future use.  
+And you know that it is better to use this even if it charges fee,  
+because you can earn more with powerful auto shilling :)  
 
 # NOTICE
 Many people asking that it is not working now.  
