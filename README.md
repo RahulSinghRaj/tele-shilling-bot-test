@@ -26,11 +26,11 @@ because you can earn more with powerful auto shilling :)
 
 # NOTICE
 Many people asking that it is not working now.  
-## This is not officially launched yet
+## Free version is not officially launched yet
 So nothing is working now. it is normal.  
 Join https://t.me/AutoShillTG to get the official announcement of this program for **FREE**.
 
-## And there is a beta test program running now.  
+## But there is a paid beta test program working now.  
 it is being used by some shillers for test and early use for this program.  
 But it is **NOT FREE** (only official release will be FREE).  
 If you want beta test, DM @AllCoinLab
