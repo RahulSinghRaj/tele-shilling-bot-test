@@ -25,12 +25,13 @@ And you will know that it is still much better to use :)
 
 # NOTICE
 Many people asking that it is not working now.  
-As it is not officially launched yet, nothing is working now. it is normal.  
-Join https://t.me/AutoShillTG to get the official announcement of this program for FREE.
+## This is not officially launched yet
+SO nothing is working now. it is normal.  
+Join https://t.me/AutoShillTG to get the official announcement of this program for **FREE**.
 
-And there is a beta test program running now.  
+## And there is a beta test program running now.  
 it is being used by some shillers for test and early use for this program.  
-But it is NOT FREE (only official release will be FREE).  
+But it is **NOT FREE** (only official release will be FREE).  
 If you want beta test, DM @AllCoinLab
 
 
