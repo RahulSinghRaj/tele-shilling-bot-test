@@ -64,7 +64,7 @@ https://core.telegram.org/api/obtaining_api_id
 https://colab.research.google.com/drive/1RSpC0acWMPn0oju-AhuiXW5AGwp1xy01?usp=sharing
 
 3. Login with your google account  
-This is one of Official Google Page, check yourself :)
+This is one of Official Google Page, check yourself :)  
 (Ignore if you have already logged in.)
 
 3-1. If you want to save it and use again, 
@@ -72,13 +72,13 @@ Click 'Copy to Drive' at the top menu.
 
 4. Follow instructions in the Page
 
-4-1. /content/AutoShill/cfg/app.cfg
+4-1. /content/AutoShill/cfg/app.cfg  
 Write down api_id, api_hash and phone number
 
-4-2. /content/AutoShill/cfg/ctrl.cfg
+4-2. /content/AutoShill/cfg/ctrl.cfg  
 Set values to control this program
 
-4-2. /content/AutoShill/cfg/groups.cfg
+4-2. /content/AutoShill/cfg/groups.cfg  
 Write down all group links you want to shill like examples given
 ##### You can write down based on @ link or full link
 ##### MAKE SURE each groups are separated by at least ONE SPACE or NEWLINE
@@ -87,7 +87,7 @@ Write down all group links you want to shill like examples given
 ##### Just make sure at least ONE SPACE or NEWLINE
 ##### Also no need to care for uppercase
 
-4-3. /content/AutoShill/cfg/shill.txt
+4-3. /content/AutoShill/cfg/shill.txt  
 Write down shill text
 
 5. Check shilling is being processed
