@@ -60,28 +60,25 @@ It will be announced in Telegram if the tool is ready.
 1. Follow instructions on section 'Obtaining api_id' in this link to get 'api_id' and 'api_hash':  
 https://core.telegram.org/api/obtaining_api_id
 
-2. Open Google Colab Intro Page  
+2. Open this link
 https://colab.research.google.com/notebooks/intro.ipynb
 
-2-1. Login with your google account  
+3. Login with your google account  
 This is one of Official Google Page, check yourself :)
+(Ignore if you have already logged in.)
 
-2-2. If you have already logged in, popup will appear. Simply click 'ESC' to erase it.
+3-1. If you want to save it and use again, 
+Click 'Copy to Drive' at the top menu.
 
-3. Click on the cell and type:
-```
-!git clone https://github.com/AllCoinLab/AutoShill.git
-```
+4. Follow instructions in the Page
 
-4. Click left panel and click each files and follow each instructions below
-
-4-1. Open cfg/app.cfg  
+4-1. /content/AutoShill/cfg/app.cfg
 Write down api_id, api_hash and phone number
 
-4-2. Open cfg/ctrl.cfg  
+4-2. /content/AutoShill/cfg/ctrl.cfg
 Set values to control this program
 
-4-2. Open cfg/group.cfg  
+4-2. /content/AutoShill/cfg/groups.cfg
 Write down all group links you want to shill like examples given
 ##### You can write down based on @ link or full link
 ##### MAKE SURE each groups are separated by at least ONE SPACE or NEWLINE
@@ -90,19 +87,12 @@ Write down all group links you want to shill like examples given
 ##### Just make sure at least ONE SPACE or NEWLINE
 ##### Also no need to care for uppercase
 
-4-3. Open cfg/shill.txt  
+4-3. /content/AutoShill/cfg/shill.txt
 Write down shill text
 
-4. Change data and save
+5. Check shilling is being processed
 
-5. Click on the cell and type:
-```
-!ipython3 run.py
-```
-
-6. Check shilling is being processed
-
-7. Enjoy 24/7 Shilling :)
+6. **Enjoy 24/7 Shilling :)**
 
 
 
