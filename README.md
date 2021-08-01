@@ -60,6 +60,11 @@ It will be announced in Telegram if the tool is ready.
 1. Follow instructions on section 'Obtaining api_id' in this link to get 'api_id' and 'api_hash':  
 https://core.telegram.org/api/obtaining_api_id#obtaining-api-id
 
+### troubleshooting
+Incorrect app name&#33 -> use alphanumeric, 5-32 characters
+my.telegram.org says ERROR -> Use chrome is advised, don't use AD block and VPN. use incognito mode in chrome
+
+
 2. Open this link  
 https://colab.research.google.com/drive/1RSpC0acWMPn0oju-AhuiXW5AGwp1xy01?usp=sharing
 
