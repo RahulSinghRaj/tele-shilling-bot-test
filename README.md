@@ -136,7 +136,13 @@ https://youtu.be/XXkYkA9XJ1g
 
 6. **Enjoy 24/7 Shilling :)**
 
-
++ Some people reported that web provided by google consistently checks activity of the user  
+If this happens, runtime will be closed with popup message.
+But you can ignore captcha msgs.  
+But you may need to stop and play the last button in **6 HOURS** due to account based activity checking system.  
+So if you think this is happening to you,  
+do below process.  
+start the last play button - (around before 6 hours) - stop the last play button - start the last play button - (repeat)
 
 # Some Tips
 Before the mute, TG system usually sends warning message.  
@@ -146,6 +152,10 @@ it is recommended to stop for a few moment and restart.
 
 
 # FAQ
+warning msgs below should restart the runtime  
+databased is locked  
+
+
 1. Spam / Flood warning message happens  
 
 It is sign for the mute / ban,  
