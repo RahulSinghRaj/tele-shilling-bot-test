@@ -31,10 +31,8 @@ And you know that it is better to use this even if it charges fee,
 because you can earn more with powerful auto shilling :)  
 
 # NOTICE
-Many people asking that it is not working now.  
 ## Free version is not officially launched yet
-So nothing is working now. it is normal.  
-Join https://t.me/AutoShillTG to get the official announcement of this program for **FREE**.
+Join https://t.me/AutoShillTG to get the launch announcement of this program for **FREE**.
 
 ## But there is a paid beta test program working now.  
 it is being used by some shillers for test and early use for this program.  
