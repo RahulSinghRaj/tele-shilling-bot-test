@@ -20,7 +20,7 @@ https://youtu.be/XXkYkA9XJ1g
 ### 🔥🔥🔥 ATTENTION ALL SHILLERS!! 🔥🔥🔥 
   
 With this program,  
-you can **SHILL MORE** efficiently to more groups with **FREE** hands.  
+you can **SHILL** with **MAXIMUM EFFICIENCY** to more groups with **FREE** hands.  
 Do other things! rest, play, or find more opportunities.  
 
 For the launch event,
@@ -42,33 +42,42 @@ You may get **PERMANENT BAN** by the Telegram system if you do something which I
 
 
 # Features
-- Can shill with your user **ACCOUNT** (also can do with **BOT**)
-- Can shill in multiple TG group  
-(tested for 100+ groups, but adjust yourself because of the TG spam system)  
-- **NOT** using your computer power (web version)  
-(You can also run this in your mobile too + turn on/off)
-- So if you have multiple account, you can do all this for multiple projects without load (web version)
-- Can shill with the **GROUP LINK**. No need for **GROUP ID**, etc.  
-- Optimized msg send time based on each group's **SLOW MODE**.  
+### Can shill with your user **ACCOUNT** (also can do with **BOT**)
+### Can shill in multiple TG group  
+tested for 120+ groups, but adjust yourself because of the TG spam system  
+### **NOT** using your computer power (web version)  
+You can also run this in your mobile too + turn on/off  
+So if you have multiple account,  
+you can do all this for multiple projects **WITHOUT LOSS OR ADDITIONAL LOAD** (web version)  
+### Optimized msg resend time based on each group's **SLOW MODE**.  
+I see many shilling services limit resend msg time like 60~120 seconds.  
+This tool runs internal algorithm and regarding the slow mode timer,  
+it automatically set optimized msg resend time for each group.  
 (tested for no slow mode to 1h slow mode)  
-- **NO INSTALLATION NEEDED**
-- Automatically joins the group if listed group is not joined  
-- (Only few group can be joined per day due to TG spam system)
-- And many more, just focusing on spreading this tool now.  
+### Add target groups with **GROUP LINK**. No need for **GROUP ID**, etc.  
+### **NO INSTALLATION NEEDED**
+### Automatically joins the group if listed group is not joined  
+Only few group can be joined per day due to TG spam system  
+### And many more, just focusing on spreading this tool now.  
 
 # Requirements
-- Your shilling account should be joined in this channel:
+- Your shilling account **MUST** be joined in this channel:
 https://t.me/AutoShillTG
 
 # Free Trial Limitations
-For the free trial, I have set limitations for test use
-- Shill text size up to 500 characters
-- Shill text up to 20 lines
-- Free trial expires at xx/xx/xx
+For the free trial, I have set limitations for test use  
+- Shill text size up to 500 characters  
+- Shill text up to 20 lines  
+- Free trial expires at xx/xx/xx  
 
 # Paid version will be released
 After the free trial,  
 you can unlock limit and extend your experience using this tool by payment.  
+Price will be determined based on your potential earning with this tool.  
+For example,  
+If you have 3 account and use this tool to shill 3 projects with 0.3, 0.4, 0.2 BNB/day each,  
+you will earn 0.9 BNB/day.  
+So I will consider these kinds of situation.  
 
 
 # Instruction
@@ -95,7 +104,7 @@ This is one of Official Google Page, check yourself :)
 (Ignore if you have already logged in.)
 
 3-1. If you want to save it and use again, 
-Click 'Copy to Drive' at the top menu.
+Click 'Copy to Drive' at the top menu.  
 
 4. Fill all the infos
 
@@ -119,6 +128,7 @@ Write down shill text
 
 5. Follow instruction of this demo video  
 https://youtu.be/w5V9rBg2T1g
+### EDIT: no need to input phone number at this step now
 
 7. Check shilling is being processed (DEMO video)  
 https://youtu.be/XXkYkA9XJ1g
@@ -148,10 +158,12 @@ I recommend you to erase more shill group and increase 'SLEEP' value
 
 # DISCLAIMER
 This is made for the shillers to shill more effectively and efficiently.  
-Using too much in too much TG groups may lead unexpected results by the TG system. (ex. mute / ban)  
+If you use too much in too much TG groups with too much accounts,
+it may lead unexpected results by the TG system. (ex. mute / ban)  
 This tool is tested with many situations.  
-(Up to 50+ groups for 24+ hours)  
+(Up to 130+ groups for 24+ hours)  
 But it may differ because of the various slow mode cooldown for each group.
++ many environment / situation of your account / computer
 
 This tool has some safety methods to avoid it,  
 but this is not responsible for those unexpected results.  
@@ -161,3 +173,4 @@ It is up to **YOU** to adjust using time and target group counts to avoid it.
 Check my other projects too :)  
 HoneyProof: Checks honeypot tokens  
 https://github.com/AllCoinLab/honeyproof
+
