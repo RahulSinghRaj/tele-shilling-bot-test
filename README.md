@@ -2,6 +2,8 @@
 
 Automatic Shilling Program for Telegram
 
+![plot](./res/shill.png)
+
 # Links
 
 Telegram: https://t.me/AutoShillTG  
@@ -23,7 +25,7 @@ Do other things! rest, play, or find more opportunities.
 
 For the launch event,
 it will be **FREE** to use for all of you.  
-Follow the instructions in github
+Follow the instructions below.
 
 When the time is right,  
 **Fee will be charged** for future use.  
@@ -31,13 +33,8 @@ And you know that it is better to use this even if it charges fee,
 because you can earn more with powerful auto shilling :)  
 
 # NOTICE
-## Free version is not officially launched yet
+## Free Trial is not officially launched yet
 Join https://t.me/AutoShillTG to get the launch announcement of this program for **FREE**.
-
-## But there is a paid beta test program working now.  
-it is being used by some shillers for test and early use for this program.  
-But it is **NOT FREE** (only official release will be FREE).  
-If you want beta test, DM https://t.me/AllCoinLab
 
 # IMPORTANT
 ### DO NOT MODIFY ANYTHING WHICH IS NOT MENTIONED 
@@ -45,21 +42,34 @@ You may get **PERMANENT BAN** by the Telegram system if you do something which I
 
 
 # Features
-1. Can shill with your user **ACCOUNT**, not with **BOT**
-(Can also do with bot but you prefer account)  
-2. Can shill in multiple TG group  
-(tested for 50+ groups, careful yourself for the TG spam system)  
-3. Can shill with the **GROUP LINK**. No need for **GROUP ID**, etc.  
-4. Can shill based on time limitation of **SLOW MODE**.  
-(tested for no slow mode to 1h slow mode)  
-5. **NO INSTALLATION NEEDED**
-6. **NOT** using your computer power  
+- Can shill with your user **ACCOUNT** (also can do with **BOT**)
+- Can shill in multiple TG group  
+(tested for 100+ groups, but adjust yourself because of the TG spam system)  
+- **NOT** using your computer power (web version)  
 (You can also run this in your mobile too + turn on/off)
-8. And many more, just focusing on spreading this tool now.  
+- So if you have multiple account, you can do all this for multiple projects without load (web version)
+- Can shill with the **GROUP LINK**. No need for **GROUP ID**, etc.  
+- Optimized msg send time based on each group's **SLOW MODE**.  
+(tested for no slow mode to 1h slow mode)  
+- **NO INSTALLATION NEEDED**
+- Automatically joins the group if listed group is not joined  
+- (Only few group can be joined per day due to TG spam system)
+- And many more, just focusing on spreading this tool now.  
 
-# Also
-1. Automatically joins the group if listed group is not joined  
-(Only few group can be joined per day due to TG system)
+# Requirements
+- Your shilling account should be joined in this channel:
+https://t.me/AutoShillTG
+
+# Free Trial Limitations
+For the free trial, I have set limitations for test use
+- Shill text size up to 500 characters
+- Shill text up to 20 lines
+- Free trial expires at xx/xx/xx
+
+# Paid version will be released
+After the free trial,  
+you can unlock limit and extend your experience using this tool by payment.  
+
 
 # Instruction
 Working on progress.  
