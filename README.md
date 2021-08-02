@@ -8,10 +8,10 @@ Telegram: https://t.me/AutoShillTG
 Github: https://github.com/AllCoinLab  
 
 # Videos
-How to use
-https://youtu.be/w5V9rBg2T1g
-Working DEMO
-https://youtu.be/XXkYkA9XJ1g
+How to use  
+https://youtu.be/w5V9rBg2T1g  
+Working DEMO  
+https://youtu.be/XXkYkA9XJ1g  
 
 # Introduction
 
@@ -109,10 +109,10 @@ Write down all group links you want to shill like examples given
 4-3. /content/AutoShill/cfg/shill.txt  
 Write down shill text
 
-5. Follow instruction of this demo video
+5. Follow instruction of this demo video  
 https://youtu.be/w5V9rBg2T1g
 
-7. Check shilling is being processed (DEMO video)
+7. Check shilling is being processed (DEMO video)  
 https://youtu.be/XXkYkA9XJ1g
 
 6. **Enjoy 24/7 Shilling :)**
