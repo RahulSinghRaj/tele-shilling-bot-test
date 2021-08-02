@@ -7,6 +7,12 @@ Automatic Shilling Program for Telegram
 Telegram: https://t.me/AutoShillTG  
 Github: https://github.com/AllCoinLab  
 
+# Videos
+How to use
+https://youtu.be/w5V9rBg2T1g
+Working DEMO
+https://youtu.be/XXkYkA9XJ1g
+
 # Introduction
 
 ### 🔥🔥🔥 ATTENTION ALL SHILLERS!! 🔥🔥🔥 
@@ -83,7 +89,7 @@ This is one of Official Google Page, check yourself :)
 3-1. If you want to save it and use again, 
 Click 'Copy to Drive' at the top menu.
 
-4. Follow instructions in the Page
+4. Fill all the infos
 
 4-1. /content/AutoShill/cfg/app.cfg  
 Write down api_id, api_hash and phone number
@@ -103,7 +109,11 @@ Write down all group links you want to shill like examples given
 4-3. /content/AutoShill/cfg/shill.txt  
 Write down shill text
 
-5. Check shilling is being processed
+5. Follow instruction of this demo video
+https://youtu.be/w5V9rBg2T1g
+
+7. Check shilling is being processed (DEMO video)
+https://youtu.be/XXkYkA9XJ1g
 
 6. **Enjoy 24/7 Shilling :)**
 
