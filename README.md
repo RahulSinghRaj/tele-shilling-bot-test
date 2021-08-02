@@ -65,11 +65,11 @@ Only few group can be joined per day due to TG spam system
 https://t.me/AutoShillTG
 
 # Free Trial Limitations
-For the free trial, I have set limitations for test use until 8/5 4pm GMT
+For the free trial, I have set limitations for test use  
 - Shill text size up to 500 characters  
 - Shill text up to 20 lines  
 - Groups up to 30 groups  
-- Free trial expires at xx/xx/xx  
+- Free trial expires at 8/5 4pm GMT
 
 # Paid version will be released
 After the free trial,  
