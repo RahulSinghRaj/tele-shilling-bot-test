@@ -68,6 +68,7 @@ https://t.me/AutoShillTG
 For the free trial, I have set limitations for test use  
 - Shill text size up to 500 characters  
 - Shill text up to 20 lines  
+- Groups up to 30 groups  
 - Free trial expires at xx/xx/xx  
 
 # Paid version will be released
