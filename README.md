@@ -18,6 +18,9 @@ Working DEMO
 https://youtu.be/XXkYkA9XJ1g  
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/XXkYkA9XJ1g/0.jpg)](http://www.youtube.com/watch?v=XXkYkA9XJ1g "Working DEMO")
 
+# Versions
+Web version: **Launched**
+Windows version: **Soon**
 
 # Introduction
 
@@ -84,7 +87,8 @@ Fill out this form with 'api_id'
 Then you will get 1 day free trial for this program.  
 https://docs.google.com/forms/d/10PIpUIbkn-6pAGxLB5abg_i8isj3gByYV7DWbN55rMI
 
-It is not done automatically so it may take time.  
+Try adding it in my working hour  
+00:00 to 15:00 GMT  
 
 # Paid version will be released
 After the free trial,  
