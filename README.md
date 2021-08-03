@@ -78,8 +78,8 @@ you can unlock limit and extend your experience using this tool by payment.
 # Price list
 Based on many shillers opinion,  
 price will be like below:  
-0.1 BNB for 1 day  
-0.5 BNB for 7 day  
+### 0.1 BNB for 1 day  
+### 0.5 BNB for 7 day  
 all based on per account.
 
 # Instruction
