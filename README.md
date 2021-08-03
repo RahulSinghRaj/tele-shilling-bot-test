@@ -36,9 +36,15 @@ Follow the instructions below.
 
 
 # IMPORTANT
-### DO NOT MODIFY ANYTHING WHICH IS NOT MENTIONED 
+# DO NOT MODIFY ANYTHING WHICH IS NOT MENTIONED 
 You may get **PERMANENT BAN** by the Telegram system if you do something which I didn't say.  
 
+
+# PLEASE READ ALL INSTRUCTIONS BEFORE ASKING ME
+As **REALLY MANY** people asking for the issue,  
+I cannot answer all things.  
+Please read all instructions in here and follow the steps first.  
+If you have trouble even if you do that, DM @AllCoinLab is always welcome :)
 
 # Features
 ### Can shill with your user **ACCOUNT** (also can do with **BOT**)
