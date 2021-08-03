@@ -44,7 +44,8 @@ You may get **PERMANENT BAN** by the Telegram system if you do something which I
 As **REALLY MANY** people asking for the issue,  
 I cannot answer all things.  
 Please read all instructions in here and follow the steps first.  
-If you have trouble even if you do that, DM @AllCoinLab is always welcome :)
+If you have trouble even if you do that,
+DM https://t.me/AllCoinLab is always welcome :)
 
 # Features
 ### Can shill with your user **ACCOUNT** (also can do with **BOT**)
