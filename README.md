@@ -125,13 +125,13 @@ Click 'Copy to Drive' at the top menu.
 
 4. Fill all the infos in the web page
 
-4-1. /content/AutoShill/cfg/app.cfg  
+4-1. /content/AutoShill/cfg/app.txt  
 Write down api_id, api_hash and phone number
 
-4-2. /content/AutoShill/cfg/ctrl.cfg  
+4-2. /content/AutoShill/cfg/ctrl.txt  
 Set values to control this program
 
-4-2. /content/AutoShill/cfg/groups.cfg  
+4-2. /content/AutoShill/cfg/groups.txt  
 Write down all group links you want to shill like examples given
 ##### You can write down based on @ link or full link
 ##### MAKE SURE each groups are separated by at least ONE SPACE or NEWLINE
@@ -175,13 +175,13 @@ https://github.com/AllCoinLab/AutoShill
 
 ![plot](./res/shill.png)
 
-4-1. /content/AutoShill/cfg/app.cfg  
+4-1. cfg/app.txt  
 Write down api_id, api_hash and phone number
 
-4-2. /content/AutoShill/cfg/ctrl.cfg  
+4-2. cfg/ctrl.txt  
 Set values to control this program
 
-4-2. /content/AutoShill/cfg/groups.cfg  
+4-2. cfg/groups.txt  
 Write down all group links you want to shill like examples given
 ##### You can write down based on @ link or full link
 ##### MAKE SURE each groups are separated by at least ONE SPACE or NEWLINE
@@ -190,15 +190,19 @@ Write down all group links you want to shill like examples given
 ##### Just make sure at least ONE SPACE or NEWLINE
 ##### Also no need to care for uppercase
 
-4-3. /content/AutoShill/cfg/shill.txt  
+4-3. cfg/shill.txt  
 Write down shill text
 
 5. Double click tg.exe
 
-6. Check shilling is being processed (DEMO video)  
+6. Running first time, input code will be asked.  
+Telegram will send you input code. Input that code.  
+(It won't ask you again from now on in normal cases)
+
+7. Check shilling is being processed (DEMO video)  
 https://youtu.be/XXkYkA9XJ1g
 
-7. **Enjoy 24/7 Shilling :)**
+8. **Enjoy 24/7 Shilling :)**
 
 
 # Some Tips
