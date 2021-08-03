@@ -74,12 +74,13 @@ For the free trial, I have set limitations for test use
 # Paid version will be released
 After the free trial,  
 you can unlock limit and extend your experience using this tool by payment.  
-Price will be determined based on your potential earning with this tool.  
-For example,  
-If you have 3 account and use this tool to shill 3 projects with 0.3, 0.4, 0.2 BNB/day each,  
-you will earn 0.9 BNB/day.  
-So I will consider these kinds of situation.  
 
+# Price list
+Based on many shillers opinion,  
+price will be like below:  
+0.1 BNB for 1 day  
+0.5 BNB for 7 day  
+all based on per account.
 
 # Instruction
 Working on progress.  
