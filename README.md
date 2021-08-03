@@ -82,15 +82,6 @@ my.telegram.org says ERROR
 #2 Not worked by #1, don't use AD block and VPN.  
 #3 Not worked by #2, use incognito mode in chrome
 
-
-# Free Trial Limitations
-For the free trial, I have set limitations for test use  
-- Shill text size up to 500 characters  
-- Shill text up to 20 lines  
-- Groups up to 30 groups  
-- Free trial expires at 8/5 4pm GMT
-
-Additional 1 day free trial 
 # How to use Free Trial
 Fill out this form with 'api_id'
 Then you will get 1 day free trial for this program.  
