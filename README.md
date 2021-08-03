@@ -124,7 +124,6 @@ Can use multiple account with no loss or load on your computer
 
 
 # Instruction for the windows version
-**NOT RELEASED YET** It will be released soon.
 
 1. Go to github
 https://github.com/AllCoinLab/AutoShill
