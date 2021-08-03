@@ -146,6 +146,10 @@ Write down shill text
 5. Follow instruction of this demo video  
 https://youtu.be/w5V9rBg2T1g
 ### EDIT: no need to input phone number at this step now
+Input code will be asked to you.
+And telegram will send you the login code.
+Write in down.
+And it will never be asked again in normal cases.
 
 6. Check shilling is being processed (DEMO video)  
 https://youtu.be/XXkYkA9XJ1g
@@ -195,9 +199,10 @@ Write down shill text
 
 5. Double click tg.exe
 
-6. Running first time, input code will be asked.  
-Telegram will send you input code. Input that code.  
-(It won't ask you again from now on in normal cases)
+6. Input code will be asked to you.
+And telegram will send you the login code.
+Write in down.
+And it will never be asked again in normal cases.
 
 7. Check shilling is being processed (DEMO video)  
 https://youtu.be/XXkYkA9XJ1g
