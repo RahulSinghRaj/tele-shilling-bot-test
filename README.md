@@ -9,11 +9,15 @@ Automatic Shilling Program for Telegram
 Telegram: https://t.me/AutoShillTG  
 Github: https://github.com/AllCoinLab  
 
-# Videos
-How to use  
+# DEMO Videos
+How to use DEMO  
 https://youtu.be/w5V9rBg2T1g  
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/w5V9rBg2T1g/0.jpg)](http://www.youtube.com/watch?v=w5V9rBg2T1g "How to use DEMO")  
+
 Working DEMO  
 https://youtu.be/XXkYkA9XJ1g  
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/XXkYkA9XJ1g/0.jpg)](http://www.youtube.com/watch?v=XXkYkA9XJ1g "Working DEMO")
+
 
 # Introduction
 
@@ -27,10 +31,6 @@ For the launch event,
 it will be **FREE** to use for all of you.  
 Follow the instructions below.
 
-When the time is right,  
-**Fee will be charged** for future use.  
-And you know that it is better to use this even if it charges fee,  
-because you can earn more with powerful auto shilling :)  
 
 # IMPORTANT
 ### DO NOT MODIFY ANYTHING WHICH IS NOT MENTIONED 
@@ -57,8 +57,20 @@ Only few group can be joined per day due to TG spam system
 ### And many more, just focusing on spreading this tool now.  
 
 # Requirements
-- Your shilling account **MUST** be joined in this channel:
+Your shilling account **MUST** be joined in this channel:  
 https://t.me/AutoShillTG
+
+Follow instructions on section 'Obtaining api_id' in this link to get 'api_id' and 'api_hash':  
+https://core.telegram.org/api/obtaining_api_id#obtaining-api-id
+
+### troubleshooting
+Incorrect app name&#33  
+#1 use alphanumeric, 5-32 characters  
+my.telegram.org says ERROR  
+#1 Use chrome, not interet explorer or edge  
+#2 Not worked by #1, don't use AD block and VPN.  
+#3 Not worked by #2, use incognito mode in chrome
+
 
 # Free Trial Limitations
 For the free trial, I have set limitations for test use  
@@ -67,16 +79,23 @@ For the free trial, I have set limitations for test use
 - Groups up to 30 groups  
 - Free trial expires at 8/5 4pm GMT
 
+# How to use Free Trial
+Fill out this form with 'api_id'
+Then you will get 1 day free trial for this program. 
+https://docs.google.com/forms/d/10PIpUIbkn-6pAGxLB5abg_i8isj3gByYV7DWbN55rMI
+
+It is not done automatically so it may take time.  
+
 # Paid version will be released
 After the free trial,  
-you can unlock limit and extend your experience using this tool by payment.  
+you can extend your experience using this tool by payment.  
 
 # Price list
 Based on many shillers opinion,  
 price will be like below:  
 **0.1 BNB for 1 day**  
 **0.5 BNB for 7 day**    
-all based on per account.
+all based on per account. (TBD)
 
 # Instruction
 There are 2 versions, web version and windows version.
@@ -91,18 +110,7 @@ Access / control with mobile phone needs remote app
 
 # Instruction for the web version
 
-1. Follow instructions on section 'Obtaining api_id' in this link to get 'api_id' and 'api_hash':  
-https://core.telegram.org/api/obtaining_api_id#obtaining-api-id
-
-### troubleshooting
-Incorrect app name&#33  
-#1 use alphanumeric, 5-32 characters  
-my.telegram.org says ERROR  
-#1 Use chrome, not interet explorer or edge  
-#2 Not worked by #1, don't use AD block and VPN.  
-#3 Not worked by #2, use incognito mode in chrome
-
-2. Open this link  
+1. Open this link  
 https://colab.research.google.com/drive/1RSpC0acWMPn0oju-AhuiXW5AGwp1xy01?usp=sharing
 
 3. Login with your google account  
@@ -152,26 +160,20 @@ So if you think this is happening to you,
 do below process.  
 start the last play button - (around before 6 hours) - stop the last play button - start the last play button - (repeat)
 
+
+
 # Instruction for the windows version
 **NOT RELEASED YET** It will be released soon.
 
-1. Follow instructions on section 'Obtaining api_id' in this link to get 'api_id' and 'api_hash':  
-https://core.telegram.org/api/obtaining_api_id#obtaining-api-id
-
-### troubleshooting
-Incorrect app name&#33  
-#1 use alphanumeric, 5-32 characters  
-my.telegram.org says ERROR  
-#1 Use chrome, not interet explorer or edge  
-#2 Not worked by #1, don't use AD block and VPN.  
-#3 Not worked by #2, use incognito mode in chrome
-
-2. Go to github
+1. Go to github
 https://github.com/AllCoinLab/AutoShill
 
-3. Download zip file
+3. Clone the repository or download zip file  
+(Search google how to do this will be easier for you)
 
 4. Fill all the infos in the folder
+
+![plot](./res/shill.png)
 
 4-1. /content/AutoShill/cfg/app.cfg  
 Write down api_id, api_hash and phone number
