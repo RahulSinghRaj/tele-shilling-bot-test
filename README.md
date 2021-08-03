@@ -81,7 +81,7 @@ For the free trial, I have set limitations for test use
 
 # How to use Free Trial
 Fill out this form with 'api_id'
-Then you will get 1 day free trial for this program. 
+Then you will get 1 day free trial for this program.  
 https://docs.google.com/forms/d/10PIpUIbkn-6pAGxLB5abg_i8isj3gByYV7DWbN55rMI
 
 It is not done automatically so it may take time.  
@@ -179,7 +179,7 @@ https://github.com/AllCoinLab/AutoShill
 
 4. Fill all the infos in the folder
 
-![plot](./res/shill.png)
+![plot](./res/cfg.png)
 
 4-1. cfg/app.txt  
 Write down api_id, api_hash and phone number
