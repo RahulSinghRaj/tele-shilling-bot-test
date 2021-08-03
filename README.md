@@ -19,8 +19,8 @@ https://youtu.be/XXkYkA9XJ1g
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/XXkYkA9XJ1g/0.jpg)](http://www.youtube.com/watch?v=XXkYkA9XJ1g "Working DEMO")
 
 # Versions
-Web version: **Launched**
-Windows version: **Soon**
+## Web version: **Launched**  
+## Windows version: **Soon**
 
 # Introduction
 
@@ -82,6 +82,7 @@ For the free trial, I have set limitations for test use
 - Groups up to 30 groups  
 - Free trial expires at 8/5 4pm GMT
 
+Additional 1 day free trial 
 # How to use Free Trial
 Fill out this form with 'api_id'
 Then you will get 1 day free trial for this program.  
