@@ -83,8 +83,9 @@ price will be like below:
 all based on per account.
 
 # Instruction
-Working on progress.  
-It will be announced in Telegram if the tool is ready.  
+There are 2 versions, web version and windows version.
+
+# Instruction for the web version
 
 1. Follow instructions on section 'Obtaining api_id' in this link to get 'api_id' and 'api_hash':  
 https://core.telegram.org/api/obtaining_api_id#obtaining-api-id
@@ -97,7 +98,6 @@ my.telegram.org says ERROR
 #2 Not worked by #1, don't use AD block and VPN.  
 #3 Not worked by #2, use incognito mode in chrome
 
-
 2. Open this link  
 https://colab.research.google.com/drive/1RSpC0acWMPn0oju-AhuiXW5AGwp1xy01?usp=sharing
 
@@ -108,7 +108,7 @@ This is one of Official Google Page, check yourself :)
 3-1. If you want to save it and use again, 
 Click 'Copy to Drive' at the top menu.  
 
-4. Fill all the infos
+4. Fill all the infos in the web page
 
 4-1. /content/AutoShill/cfg/app.cfg  
 Write down api_id, api_hash and phone number
@@ -132,10 +132,10 @@ Write down shill text
 https://youtu.be/w5V9rBg2T1g
 ### EDIT: no need to input phone number at this step now
 
-7. Check shilling is being processed (DEMO video)  
+6. Check shilling is being processed (DEMO video)  
 https://youtu.be/XXkYkA9XJ1g
 
-6. **Enjoy 24/7 Shilling :)**
+7. **Enjoy 24/7 Shilling :)**
 
 + Some people reported that web provided by google consistently checks activity of the user  
 If this happens, runtime will be closed with popup message.
@@ -144,6 +144,53 @@ But you may need to stop and play the last button in **6 HOURS** due to account 
 So if you think this is happening to you,  
 do below process.  
 start the last play button - (around before 6 hours) - stop the last play button - start the last play button - (repeat)
+
+# Instruction for the windows version
+**NOT RELEASED YET** It will be released soon.
+
+1. Follow instructions on section 'Obtaining api_id' in this link to get 'api_id' and 'api_hash':  
+https://core.telegram.org/api/obtaining_api_id#obtaining-api-id
+
+### troubleshooting
+Incorrect app name&#33  
+#1 use alphanumeric, 5-32 characters  
+my.telegram.org says ERROR  
+#1 Use chrome, not interet explorer or edge  
+#2 Not worked by #1, don't use AD block and VPN.  
+#3 Not worked by #2, use incognito mode in chrome
+
+2. Go to github
+https://github.com/AllCoinLab/AutoShill
+
+3. Download zip file
+
+4. Fill all the infos in the folder
+
+4-1. /content/AutoShill/cfg/app.cfg  
+Write down api_id, api_hash and phone number
+
+4-2. /content/AutoShill/cfg/ctrl.cfg  
+Set values to control this program
+
+4-2. /content/AutoShill/cfg/groups.cfg  
+Write down all group links you want to shill like examples given
+##### You can write down based on @ link or full link
+##### MAKE SURE each groups are separated by at least ONE SPACE or NEWLINE
+##### Other than that, you don't need to care for some orders or something
+##### No need to care for space, newline count between groups.
+##### Just make sure at least ONE SPACE or NEWLINE
+##### Also no need to care for uppercase
+
+4-3. /content/AutoShill/cfg/shill.txt  
+Write down shill text
+
+5. Double click tg.exe
+
+6. Check shilling is being processed (DEMO video)  
+https://youtu.be/XXkYkA9XJ1g
+
+7. **Enjoy 24/7 Shilling :)**
+
 
 # Some Tips
 Before the mute, TG system usually sends warning message.  
