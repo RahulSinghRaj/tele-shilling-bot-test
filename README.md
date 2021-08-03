@@ -20,7 +20,7 @@ https://youtu.be/XXkYkA9XJ1g
 
 # Versions
 ## Web version: **Launched**  
-## Windows version: **Soon**
+## Windows version: **Launched**
 
 # Introduction
 
