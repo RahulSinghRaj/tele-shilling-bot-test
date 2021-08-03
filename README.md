@@ -19,8 +19,9 @@ https://youtu.be/XXkYkA9XJ1g
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/XXkYkA9XJ1g/0.jpg)](http://www.youtube.com/watch?v=XXkYkA9XJ1g "Working DEMO")
 
 # Versions
-## Web version: **Launched**  
 ## Windows version: **Launched**
+## Web version: **Launched**  
+
 
 # Introduction
 
@@ -112,14 +113,59 @@ all based on per account. (TBD)
 # Instruction
 There are 2 versions, web version and windows version.  
 
-1. web version  
+1. windows version  
+Easy to use  
+Access / control with mobile phone needs remote app  
+
+2. web version  
 Uses google web so it does **NOT** consume your computer power  
 Can be accessed / controlled with mobile phone  
 Can use multiple account with no loss or load on your computer  
 
-2. windows version  
-Easy to use  
-Access / control with mobile phone needs remote app  
+
+# Instruction for the windows version
+**NOT RELEASED YET** It will be released soon.
+
+1. Go to github
+https://github.com/AllCoinLab/AutoShill
+
+3. Clone the repository or download zip file  
+(Search google how to do this will be easier for you)
+
+4. Fill all the infos in the folder
+
+![plot](./res/cfg.png)
+
+4-1. cfg/app.txt  
+Write down api_id, api_hash and phone number
+
+4-2. cfg/ctrl.txt  
+Set values to control this program
+
+4-2. cfg/groups.txt  
+Write down all group links you want to shill like examples given
+##### You can write down based on @ link or full link
+##### MAKE SURE each groups are separated by at least ONE SPACE or NEWLINE
+##### Other than that, you don't need to care for some orders or something
+##### No need to care for space, newline count between groups.
+##### Just make sure at least ONE SPACE or NEWLINE
+##### Also no need to care for uppercase
+
+4-3. cfg/shill.txt  
+Write down shill text
+
+5. Double click tg.exe
+
+6. Input code will be asked to you.
+And telegram will send you the login code.
+Write in down.
+And it will never be asked again in normal cases.
+
+7. Check shilling is being processed (DEMO video)  
+https://youtu.be/XXkYkA9XJ1g
+
+8. **Enjoy 24/7 Shilling :)**
+
 
 
 # Instruction for the web version
@@ -179,49 +225,6 @@ do below process.
 start the last play button - (around before 6 hours) - stop the last play button - start the last play button - (repeat)
 
 
-
-# Instruction for the windows version
-**NOT RELEASED YET** It will be released soon.
-
-1. Go to github
-https://github.com/AllCoinLab/AutoShill
-
-3. Clone the repository or download zip file  
-(Search google how to do this will be easier for you)
-
-4. Fill all the infos in the folder
-
-![plot](./res/cfg.png)
-
-4-1. cfg/app.txt  
-Write down api_id, api_hash and phone number
-
-4-2. cfg/ctrl.txt  
-Set values to control this program
-
-4-2. cfg/groups.txt  
-Write down all group links you want to shill like examples given
-##### You can write down based on @ link or full link
-##### MAKE SURE each groups are separated by at least ONE SPACE or NEWLINE
-##### Other than that, you don't need to care for some orders or something
-##### No need to care for space, newline count between groups.
-##### Just make sure at least ONE SPACE or NEWLINE
-##### Also no need to care for uppercase
-
-4-3. cfg/shill.txt  
-Write down shill text
-
-5. Double click tg.exe
-
-6. Input code will be asked to you.
-And telegram will send you the login code.
-Write in down.
-And it will never be asked again in normal cases.
-
-7. Check shilling is being processed (DEMO video)  
-https://youtu.be/XXkYkA9XJ1g
-
-8. **Enjoy 24/7 Shilling :)**
 
 
 # Some Tips
