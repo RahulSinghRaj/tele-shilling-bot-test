@@ -32,10 +32,6 @@ When the time is right,
 And you know that it is better to use this even if it charges fee,  
 because you can earn more with powerful auto shilling :)  
 
-# NOTICE
-## Free Trial is not officially launched yet
-Join https://t.me/AutoShillTG to get the launch announcement of this program for **FREE**.
-
 # IMPORTANT
 ### DO NOT MODIFY ANYTHING WHICH IS NOT MENTIONED 
 You may get **PERMANENT BAN** by the Telegram system if you do something which I didn't say.  
