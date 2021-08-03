@@ -84,6 +84,14 @@ all based on per account.
 
 # Instruction
 There are 2 versions, web version and windows version.
+1. web version
+Uses google web so it does **NOT** consume your computer power
+Can be accessed / controlled with mobile phone
+Can use multiple account with no loss or load on your computer
+2. windows version
+Easy to use
+Access / control with mobile phone needs remote app
+
 
 # Instruction for the web version
 
@@ -107,6 +115,9 @@ This is one of Official Google Page, check yourself :)
 
 3-1. If you want to save it and use again, 
 Click 'Copy to Drive' at the top menu.  
+
+3-2. When copy to drive worked, save the url for the future use.
+### You can also access this url by mobile phone
 
 4. Fill all the infos in the web page
 
