@@ -49,7 +49,7 @@ If you have trouble even if you do that,
 DM https://t.me/AllCoinLab is always welcome :)
 
 # Features
-### Image support added  
+### 21.08.04 Image support added  
 ### Can shill with your user **ACCOUNT** (also can do with **BOT**)
 ### Can shill in multiple TG group  
 tested for 120+ groups, but adjust yourself because of the TG spam system  
