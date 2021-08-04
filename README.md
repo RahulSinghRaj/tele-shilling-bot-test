@@ -130,7 +130,7 @@ https://github.com/AllCoinLab/AutoShill
 4. Fill all the infos in the folder  
 If you want to use image,  
 replace image file for img/shill.png  
-**CHECK IMAGE RESTRICTIONS**
+**CHECK IMAGE RESTRICTIONS**  
 ![plot](./res/cfg.png)
 
 4-1. cfg/app.txt  
