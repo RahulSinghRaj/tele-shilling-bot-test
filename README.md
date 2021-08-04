@@ -2,7 +2,7 @@
 
 Automatic Shilling Program for Telegram
 
-![plot](./res/shill.png)
+
 
 # Links
 
