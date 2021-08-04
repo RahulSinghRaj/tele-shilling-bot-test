@@ -23,8 +23,9 @@ Working DEMO: (windows Old version)
 https://youtu.be/XXkYkA9XJ1g  
 
 # Versions
-## Windows version: **Launched**
-## Web version: **Launched**  
+🔴🟡🟢🔵
+## Windows version: Launched 🟢  
+## Web version: Launched 🟢  
 
 
 # Introduction
@@ -40,7 +41,7 @@ it will be **FREE** to use for all of you.
 Follow the instructions below.
 
 
-# IMPORTANT
+# 🔥🔥 IMPORTANT 🔥🔥
 # DO NOT MODIFY ANYTHING WHICH IS NOT MENTIONED 
 You may get **PERMANENT BAN** by the Telegram system if you do something which I didn't say.  
 
