@@ -147,7 +147,9 @@ Write down all group links you want to shill like examples given
 4-3. cfg/shill.txt  
 Write down shill text
 
-5. Double click tg.exe
+5. Double click tg.exe  
+### It may take long time for actual shilling  
+### as it gathers and analyzes all of your target group to do the optimized shilling  
 
 6. Input code will be asked to you.
 And telegram will send you the login code.
