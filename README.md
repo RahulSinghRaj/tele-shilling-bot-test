@@ -174,12 +174,17 @@ Click 'Copy to Drive' at the top menu.
 ### You can also access this url by mobile phone
 
 4. Fill all the infos in the web page
+If you want to use with image,  
+you need to upload the image first.  
+Check step 1 ~ 4 in section 'Access local files through the file-explorer' in this link:  
+https://neptune.ai/blog/google-colab-dealing-with-files
 
 4-1. /content/AutoShill/cfg/app.txt  
 Write down api_id, api_hash and phone number
 
 4-2. /content/AutoShill/cfg/ctrl.txt  
-Set values to control this program
+Set values to control this program  
+(upload with image is controlled in here)
 
 4-2. /content/AutoShill/cfg/groups.txt  
 Write down all group links you want to shill like examples given
