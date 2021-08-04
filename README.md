@@ -122,8 +122,9 @@ https://github.com/AllCoinLab/AutoShill
 3. Clone the repository or download zip file  
 (Search google how to do this will be easier for you)
 
-4. Fill all the infos in the folder
-
+4. Fill all the infos in the folder  
+If you want to use image,  
+replace image file for img/shill.png  
 ![plot](./res/cfg.png)
 
 4-1. cfg/app.txt  
@@ -173,7 +174,7 @@ Click 'Copy to Drive' at the top menu.
 3-2. When copy to drive worked, save the url for the future use.
 ### You can also access this url by mobile phone
 
-4. Fill all the infos in the web page
+4. Fill all the infos in the web page  
 If you want to use with image,  
 you need to upload the image first.  
 Check step 1 ~ 4 in section 'Access local files through the file-explorer' in this link:  
