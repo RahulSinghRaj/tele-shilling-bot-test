@@ -49,6 +49,7 @@ If you have trouble even if you do that,
 DM https://t.me/AllCoinLab is always welcome :)
 
 # Features
+### Image support added  
 ### Can shill with your user **ACCOUNT** (also can do with **BOT**)
 ### Can shill in multiple TG group  
 tested for 120+ groups, but adjust yourself because of the TG spam system  
@@ -125,6 +126,7 @@ https://github.com/AllCoinLab/AutoShill
 4. Fill all the infos in the folder  
 If you want to use image,  
 replace image file for img/shill.png  
+**CHECK IMAGE RESTRICTIONS**
 ![plot](./res/cfg.png)
 
 4-1. cfg/app.txt  
@@ -179,6 +181,7 @@ If you want to use with image,
 you need to upload the image first.  
 Check step 1 ~ 4 in section 'Access local files through the file-explorer' in this link:  
 https://neptune.ai/blog/google-colab-dealing-with-files
+**CHECK IMAGE RESTRICTIONS**
 
 4-1. /content/AutoShill/cfg/app.txt  
 Write down api_id, api_hash and phone number
@@ -221,7 +224,13 @@ do below process.
 start the last play button - (around before 6 hours) - stop the last play button - start the last play button - (repeat)
 
 
+# Image Restrictions
+And shilling with image have some restrictions due to TG regulation.  
+1. More delay for all groups.  
+2. Up to 900 characters.  
 
+And some groups don't permit image.  
+They will be uploaded with only text automatically.  
 
 # Some Tips
 Before the mute, TG system usually sends warning message.  
