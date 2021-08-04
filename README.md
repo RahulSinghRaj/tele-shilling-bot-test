@@ -10,15 +10,16 @@ Telegram: https://t.me/AutoShillTG
 Github: https://github.com/AllCoinLab  
 
 # DEMO Videos
-How to use DEMO  
-https://youtu.be/w5V9rBg2T1g  
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/w5V9rBg2T1g/0.jpg)](http://www.youtube.com/watch?v=w5V9rBg2T1g "How to use DEMO")  
-
-Working DEMO: Upgraded version    
+Working DEMO (windows Upgraded version)    
 https://youtu.be/4KG2Fk02qiM  
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/4KG2Fk02qiM/0.jpg)](http://www.youtube.com/watch?v=4KG2Fk02qiM "Working DEMO")
 
-Working DEMO: Old version  
+How to use DEMO (web version)  
+https://youtu.be/w5V9rBg2T1g  
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/w5V9rBg2T1g/0.jpg)](http://www.youtube.com/watch?v=w5V9rBg2T1g "How to use DEMO")  
+
+
+Working DEMO: (windows Old version)  
 https://youtu.be/XXkYkA9XJ1g  
 
 # Versions
