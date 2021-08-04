@@ -20,7 +20,6 @@ https://youtu.be/4KG2Fk02qiM
 
 Working DEMO: Old version  
 https://youtu.be/XXkYkA9XJ1g  
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/XXkYkA9XJ1g/0.jpg)](http://www.youtube.com/watch?v=XXkYkA9XJ1g "Working DEMO")
 
 # Versions
 ## Windows version: **Launched**
