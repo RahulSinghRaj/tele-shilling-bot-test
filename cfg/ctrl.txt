@@ -12,3 +12,13 @@ RECONNECT = 0
 # Set 1 to display Slow mode log
 # It prints so many logs so set 0 is recommended
 SLOW_LOG = 0
+
+# Do periodic reconnect for telegram
+# Useful for the long term shilling in restricted country
+# Set 0 if your account cannot send message for a while
+FORCE_CONNECT = 1
+
+# Skip group to next queue which is not available to send at the time
+# Sends more messages if you have many groups.
+# Set 0 if your account cannot send message for a while
+SKIP_WAIT = 1
