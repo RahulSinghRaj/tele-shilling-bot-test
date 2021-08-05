@@ -82,7 +82,6 @@ https://docs.google.com/forms/d/10PIpUIbkn-6pAGxLB5abg_i8isj3gByYV7DWbN55rMI
 Try adding it in my working hour  
 00:00 to 15:00 GMT  
 
-# Paid version will be released
 After the free trial,  
 you can extend your experience using this tool by payment.   
 
