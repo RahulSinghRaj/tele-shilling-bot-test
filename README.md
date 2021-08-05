@@ -45,7 +45,7 @@ Follow the instructions below.
 
 
 # 🔥🔥 IMPORTANT 🔥🔥
-# DO NOT MODIFY ANYTHING WHICH IS NOT MENTIONED 
+# DON'T DO ANYTHING WHICH IS NOT MENTIONED IN INSTRUCTION
 You may get **PERMANENT BAN** by the Telegram system if you do something which I didn't say.  
 
 
