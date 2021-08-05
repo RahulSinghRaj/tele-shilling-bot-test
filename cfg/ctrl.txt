@@ -3,12 +3,15 @@
 # web version: upload file with path and name [/content/AutoShill/img/shill.png]
 # windows version: upload file with path and name [img/shill.png]
 IMAGE = 0
+
 # Sleep duration between group message (in seconds)
 # To avoid mute / ban, it is adviced to increase the value
 SLEEP = 0
+
 # Set 1 to do the authentication reset
 # Set 0 in normal case
 RECONNECT = 0
+
 # Set 1 to display Slow mode log
 # It prints so many logs so set 0 is recommended
 SLOW_LOG = 0
