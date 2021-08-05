@@ -155,6 +155,9 @@ Write down shill text
 5. Double click tg.exe  
 ### It may take long time for actual shilling  
 ### as it gathers and analyzes all of your target group to do the optimized shilling  
+## EDIT: You need to overwrite tg.exe to this file
+(Github limits transferring large file)
+https://t.me/AutoShillTG/19
 
 6. Input code will be asked to you.
 And telegram will send you the login code.
