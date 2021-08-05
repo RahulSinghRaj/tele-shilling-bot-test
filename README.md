@@ -49,10 +49,10 @@ Follow the instructions below.
 You may get **PERMANENT BAN** by the Telegram system if you do something which I didn't say.  
 
 
-# PLEASE READ ALL INSTRUCTIONS BEFORE ASKING ME
+# PLEASE READ INSTRUCTIONS BEFORE ASKING ME
 As **REALLY MANY** people asking for the issue,  
-I cannot answer all things.  
-Please read all instructions in here and follow the steps first.  
+I cannot answer all of them.  
+Please read instructions and follow the steps first.  
 If you have trouble even if you do that,
 DM https://t.me/AllCoinLab is always welcome :)
 
