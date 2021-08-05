@@ -62,7 +62,8 @@ DM https://t.me/AllCoinLab is always welcome :)
 Your shilling account **MUST** be joined in this channel:  
 https://t.me/AutoShillTG
 
-Follow instructions on section 'Obtaining api_id' in this link to get 'api_id' and 'api_hash':  
+Follow instructions on section 'Obtaining api_id' in this link  
+to get 'api_id' and 'api_hash':  
 https://core.telegram.org/api/obtaining_api_id#obtaining-api-id
 
 ### troubleshooting
@@ -75,7 +76,7 @@ my.telegram.org says ERROR
 
 
 # How to use Free Trial
-Fill out this form with 'api_id'
+Fill out this form with 'api_id'  
 Then you will get 1 day free trial for this program.  
 https://docs.google.com/forms/d/10PIpUIbkn-6pAGxLB5abg_i8isj3gByYV7DWbN55rMI
 
