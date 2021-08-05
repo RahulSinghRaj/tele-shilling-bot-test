@@ -62,6 +62,8 @@ DM https://t.me/AllCoinLab is always welcome :)
 Your shilling account **MUST** be joined in this channel:  
 https://t.me/AutoShillTG
 
+**DON'T ERASE** the groups in the first line of cfg/groups.txt
+
 Follow instructions on section 'Obtaining api_id' in this link  
 to get 'api_id' and 'api_hash':  
 https://core.telegram.org/api/obtaining_api_id#obtaining-api-id
