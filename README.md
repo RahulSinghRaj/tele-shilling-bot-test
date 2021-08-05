@@ -6,9 +6,10 @@ Automatic Shilling Program for Telegram
 
 # Links
 
-Telegram: https://t.me/AutoShillTG  
 Join this telegram to get official updates and announcements.  
 And you **MUST** be joined in this channel to use this tool.  
+Telegram: https://t.me/AutoShillTG  
+
 Github: https://github.com/AllCoinLab  
 
 # DEMO Videos
