@@ -1,2 +1,0 @@
-tg* filter=lfs diff=lfs merge=lfs -text
-tg.exe filter=lfs diff=lfs merge=lfs -text
