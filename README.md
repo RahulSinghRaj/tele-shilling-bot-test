@@ -6,11 +6,13 @@ Automatic Shilling Program for Telegram
 
 # Links
 
-Join this telegram to get official updates and announcements.  
-And you **MUST** be joined in this channel to use this tool.  
+Join this channel to get official updates and announcements.  
 Telegram: https://t.me/AutoShillTG  
+Join this group to ask / discuss / request for this tool.  
+Telegram: https://t.me/AutoShillChat   
 
-Github: https://github.com/AllCoinLab  
+Github: https://github.com/AllCoinLab/AutoShill
+  
 
 # DEMO Videos
 Working DEMO (windows Upgraded version)    
@@ -45,15 +47,15 @@ Follow the instructions below.
 
 
 # 🔥🔥 IMPORTANT 🔥🔥
-# DON'T DO ANYTHING WHICH IS NOT MENTIONED IN INSTRUCTION
+## DON'T DO ANYTHING WHICH IS NOT MENTIONED IN INSTRUCTION
 You may get **PERMANENT BAN** by the Telegram system if you do something which I didn't say.  
 
 
-# PLEASE READ INSTRUCTIONS BEFORE ASKING ME
+## PLEASE READ INSTRUCTIONS FIRST
 As **REALLY MANY** people asking for the issue,  
 I cannot answer all of them.  
 Please read instructions and follow the steps first.  
-If you have trouble even if you do that,
+If you have trouble even if you do that,  
 DM https://t.me/AllCoinLab is always welcome :)
 
   
@@ -64,8 +66,7 @@ https://t.me/AutoShillTG
 
 **DON'T ERASE** the groups in the first line of cfg/groups.txt
 
-Follow instructions on section 'Obtaining api_id' in this link  
-to get 'api_id' and 'api_hash':  
+Follow instructions on section 'Obtaining api_id' in this link to get 'api_id' and 'api_hash':  
 https://core.telegram.org/api/obtaining_api_id#obtaining-api-id
 
 ### troubleshooting
@@ -99,8 +100,8 @@ If you use too much in too much TG groups with too much accounts,
 it may lead unexpected results by the TG system. (ex. mute / ban)  
 This tool is tested with many situations.  
 (Up to 130+ groups for 24+ hours)  
-But it may differ because of the various slow mode cooldown for each group.
-+ many environment / situation of your account / computer
+But it may differ because of the various slow mode cooldown for each group  
+regard many environment / situation of your account / computer
 
 This tool has some safety methods to avoid it,  
 but this is not responsible for those unexpected results.  
@@ -110,4 +111,3 @@ It is up to **YOU** to adjust using time and target group counts to avoid it.
 Check my other projects too :)  
 HoneyProof: Checks honeypot tokens  
 https://github.com/AllCoinLab/honeyproof
-
