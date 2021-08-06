@@ -2,6 +2,7 @@
 # Set 1 to send with image
 # web version: upload file with path and name [/content/AutoShill/img/shill.png]
 # windows version: upload file with path and name [img/shill.png]
+# Check 'Image Restriction' at the wiki page
 IMAGE = 0
 
 # Sleep duration between group message (in seconds)
@@ -16,12 +17,12 @@ RECONNECT = 0
 # It prints so many logs so set 0 is recommended
 SLOW_LOG = 0
 
-# Do periodic reconnect for telegram
+# Set 1 to do periodic reconnect for telegram
 # Useful for the long term shilling in restricted country
 # Set 0 if your account cannot send message for a while
-FORCE_CONNECT = 1
+FORCE_CONNECT = 0
 
-# Skip group to next queue which is not available to send at the time
+# Set 1 to skip group to next queue which is not available to send at the time
 # Sends more messages if you have many groups.
 # Set 0 if your account cannot send message for a while
-SKIP_WAIT = 1
+SKIP_WAIT = 0
