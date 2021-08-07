@@ -58,42 +58,6 @@ Please read instructions and follow the steps first.
 If you have trouble even if you do that,  
 DM https://t.me/AllCoinLab is always welcome :)
 
-  
-
-# Requirements
-Your shilling account **MUST** be joined in this channel:  
-https://t.me/AutoShillTG
-
-You need to make a 'api_id' and 'api_hash' to use this.  
-Follow this steps in this link: (I think this is easier to follow)  
-https://arshmaan.com/how-to-get-telegram-api-id-and-hash-id/  
-Or follow instructions on section 'Obtaining api_id' in this link:    
-https://core.telegram.org/api/obtaining_api_id#obtaining-api-id
-
-### troubleshooting
-Incorrect app name&#33  
-#1 use alphanumeric, 5-32 characters  
-my.telegram.org says ERROR  
-#1 Use chrome, not internet explorer or edge  
-#2 Not worked by #1, don't use AD block and VPN.  
-#3 Not worked by #2, use incognito mode in chrome
-
-
-# How to use Free Trial
-Fill out this form with 'api_id'  
-**NOT YOUR TELEGRAM ID!** It is what you have got in 'Requirements'  
-![image](https://user-images.githubusercontent.com/86149297/128602384-a0650016-b6a2-4f25-be68-55a084dde387.png)
-
-
-Then you will get 1 day free trial for this program.  
-https://docs.google.com/forms/d/10PIpUIbkn-6pAGxLB5abg_i8isj3gByYV7DWbN55rMI
-
-Try adding it in my working hour  
-00:00 to 15:00 GMT  
-
-After the free trial,  
-you can extend your experience using this tool by payment.   
-
 
 # ALL INFOS ARE IN THE WIKI
 https://github.com/AllCoinLab/AutoShill/wiki
