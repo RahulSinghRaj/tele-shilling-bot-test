@@ -65,7 +65,8 @@ Your shilling account **MUST** be joined in this channel:
 https://t.me/AutoShillTG
 
 Follow instructions on section 'Obtaining api_id' in this link to get 'api_id' and 'api_hash':  
-https://core.telegram.org/api/obtaining_api_id#obtaining-api-id
+https://arshmaan.com/how-to-get-telegram-api-id-and-hash-id/
+(This is Telegram's official introduction: https://core.telegram.org/api/obtaining_api_id#obtaining-api-id)
 
 ### troubleshooting
 Incorrect app name&#33  
