@@ -81,7 +81,7 @@ my.telegram.org says ERROR
 
 # How to use Free Trial
 Fill out this form with 'api_id'  
-(**NOT YOUR TELEGRAM ID! It is what you have got in 'Requirements'  
+**NOT YOUR TELEGRAM ID!** It is what you have got in 'Requirements'  
 ![image](https://user-images.githubusercontent.com/86149297/128602384-a0650016-b6a2-4f25-be68-55a084dde387.png)
 
 
