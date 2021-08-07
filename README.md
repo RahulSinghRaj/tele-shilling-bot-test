@@ -64,15 +64,17 @@ DM https://t.me/AllCoinLab is always welcome :)
 Your shilling account **MUST** be joined in this channel:  
 https://t.me/AutoShillTG
 
-Follow instructions on section 'Obtaining api_id' in this link to get 'api_id' and 'api_hash':  
-https://arshmaan.com/how-to-get-telegram-api-id-and-hash-id/
-(This is Telegram's official introduction: https://core.telegram.org/api/obtaining_api_id#obtaining-api-id)
+You need to make a 'api_id' and 'api_hash' to use this.  
+Follow this steps in this link: (I think this is easier to follow)  
+https://arshmaan.com/how-to-get-telegram-api-id-and-hash-id/  
+Or follow instructions on section 'Obtaining api_id' in this link:    
+https://core.telegram.org/api/obtaining_api_id#obtaining-api-id
 
 ### troubleshooting
 Incorrect app name&#33  
 #1 use alphanumeric, 5-32 characters  
 my.telegram.org says ERROR  
-#1 Use chrome, not interet explorer or edge  
+#1 Use chrome, not internet explorer or edge  
 #2 Not worked by #1, don't use AD block and VPN.  
 #3 Not worked by #2, use incognito mode in chrome
 
