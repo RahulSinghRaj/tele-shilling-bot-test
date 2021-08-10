@@ -1,28 +1,31 @@
 [CTRL]
+###########################################################################
+# If you are not confident for modifying here,
+# just leave it as a default :)
+###########################################################################
+
+# Sleep duration between all group messages (in seconds)
+# To avoid mute / ban, it is adviced to increase the value
+GLOBAL_SLEEP = 10
+
+# Sleep duration between each group messages (in seconds)
+# To avoid mute / ban, it is adviced to increase the value
+LOCAL_SLEEP = 3
+
 # Set 1 to send with image
 # web version: upload file with path and name [/content/AutoShill/img/shill.png]
 # windows version: upload file with path and name [img/shill.png]
-# Check 'Image Restriction' at the wiki page
 IMAGE = 0
 
-# Sleep duration between group message (in seconds)
-# To avoid mute / ban, it is adviced to increase the value
-SLEEP = 0
-
-# Set 1 to do the authentication reset
-# Set 0 in normal case
-RECONNECT = 0
+# Set 1 when you want to logout and login again
+# use it when something is wrong with authentication and session things
+RESET = 0
 
 # Set 1 to display Slow mode log
 # It prints so many logs so set 0 is recommended
 SLOW_LOG = 0
 
-# Set 1 to do periodic reconnect for telegram
+# Do periodic reconnect for telegram
 # Useful for the long term shilling in restricted country
 # Set 0 if your account cannot send message for a while
 FORCE_CONNECT = 0
-
-# Set 1 to skip group to next queue which is not available to send at the time
-# Sends more messages if you have many groups.
-# Set 0 if your account cannot send message for a while
-SKIP_WAIT = 0
