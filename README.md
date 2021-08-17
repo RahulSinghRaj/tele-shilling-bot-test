@@ -34,7 +34,7 @@ https://youtu.be/XXkYkA9XJ1g
 ## Web version: Launched 🟢  
 
 
-# Introduction
+# 💸 Introduction
 
 ### 🔥🔥🔥 ATTENTION ALL SHILLERS!! 🔥🔥🔥 
   
