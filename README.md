@@ -1,20 +1,21 @@
-# AutoShill
+# 🔥🔥🔥 AutoShill 🔥🔥🔥
 
 Automatic Shilling Program for Telegram
 
 ![plot](./res/shill.png)
 
-# Links
+# 🔗 Links
 
 Join this channel to get official updates and announcements.  
-Telegram: https://t.me/AutoShillTG  
+📣 Channel: https://t.me/AutoShillTG  
 Join this group to ask / discuss / request for this tool.  
-Telegram: https://t.me/AutoShillChat   
+👥 Group: https://t.me/AutoShillChat   
+All the informations are in this github  
+📝 Github: https://github.com/AllCoinLab/AutoShill  
+Any questions, promotions, etc  
+📞 Contact: https://t.me/AllCoinLab  
 
-Github: https://github.com/AllCoinLab/AutoShill
-  
-
-# DEMO Videos
+# 🖥 DEMO Videos
 Working DEMO (windows Upgraded version)    
 https://youtu.be/4KG2Fk02qiM  
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/4KG2Fk02qiM/0.jpg)](http://www.youtube.com/watch?v=4KG2Fk02qiM "Working DEMO")
